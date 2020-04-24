@@ -16,4 +16,4 @@ You'll need:
   - checkout your github pages repo
   - add posts
 
-This blog was written thia way :)
+This blog was written this way :)
